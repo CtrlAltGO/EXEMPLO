@@ -39,6 +39,6 @@ java Prog02_POO
 ---
 
 ## 👤 Identificação
-- **Nome:** ____________________  
-- **Curso:** ____________________  
-- **Período:** ____________________  
+- **Nome:** Pedro Rodrigues Pezzini
+- **Curso:** Sistemas de Informação 
+- **Período:** 3º Período - Noturno 
