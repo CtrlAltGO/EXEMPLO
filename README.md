@@ -10,4 +10,5 @@
 
 1. Compile o programa:
    ```bash
-   javac NomeDoArquivo.java
+javac Prog01_MAT.java
+java Prog01_MAT
